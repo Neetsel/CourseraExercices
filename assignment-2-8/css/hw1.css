@@ -70,7 +70,7 @@ h2{
 /*The navigation links (and only the links in the navigation) should be styled with a new display, margin, border-radius, text-decoration, and padding*/
 nav a{
 	color:#000000;
-	background-color: #A9A9A999;
+	background-color: rgba(169, 169, 169, 0.5);
 	display:inline-block;
 	text-decoration: none;
 	border-radius: 5px;	
